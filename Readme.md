@@ -2,7 +2,7 @@
 
 ConnectALL Freshdesk Adapter is developed as an extension to the Universal adapter capability of ConnectALL. This adapter specifications will let the user use Freshdesk with Webhooks to read and write the data in to Freshdesk.
 
-Please refer https://wiki.connectall.com/ca/latest/user-guide/adapters/custom-application-adapter for more information
+Please refer to https://wiki.connectall.com/ca/latest/adapters/universal-adapter for more information
 
 # Usecase
 
