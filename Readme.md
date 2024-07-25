@@ -1,4 +1,4 @@
-# ConnectALL Freshdesk Adapter
+# ua-freshdesk
 
 ConnectALL Freshdesk Adapter is developed as an extension to the Universal adapter capability of ConnectALL. This adapter specifications will let the user use Freshdesk with Webhooks to read and write the data in to Freshdesk.
 
